@@ -1,1 +1,2 @@
-this is a test for shell
+this is a test for shellgit 
+echo "test"
